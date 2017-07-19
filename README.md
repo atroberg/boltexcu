@@ -2,7 +2,7 @@
 
 ```
 npm install -g react-native-cli
-git clone ...
+git clone https://github.com/atroberg/boltexcu.git
 yarn
 
 # Set location of Android SDK
